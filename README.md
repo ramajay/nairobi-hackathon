@@ -27,5 +27,5 @@ _description to be added_
 ### Nairobi.js
 
 * **owners**: Vicky
-* **participants**: _add your handle here_
+* **participants**: @ramajay  #_add your handle here_
 * **repository**: _add repository URL here_
